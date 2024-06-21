@@ -915,6 +915,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"cloudhsm:ModifyLunaClient": {},
 	"cloudhsm:RemoveTagsFromResource": {},
 	"cloudshell:CreateEnvironment": {},
+	"cloudshell:DescribeEnvironments": {},
 	"cloudtrail:DeregisterOrganizationDelegatedAdmin": {},
 	"cloudtrail:DescribeTrails": {},
 	"cloudtrail:GetImport": {},
