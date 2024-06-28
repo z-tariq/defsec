@@ -1301,6 +1301,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"controltower:ListGuardrailViolations": {},
 	"controltower:ListGuardrails": {},
 	"controltower:ListGuardrailsForTarget": {},
+	"controltower:ListLandingZoneOperations": {},
 	"controltower:ListLandingZones": {},
 	"controltower:ListManagedAccounts": {},
 	"controltower:ListManagedAccountsForGuardrail": {},
