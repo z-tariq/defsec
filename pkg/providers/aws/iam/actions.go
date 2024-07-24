@@ -3853,6 +3853,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"quicksight:ListRefreshSchedules": {},
 	"quicksight:ListRoleMemberships": {},
 	"quicksight:ListTopicRefreshSchedules": {},
+	"quicksight:ListTopicReviewedAnswers": {},
 	"quicksight:ListTopics": {},
 	"quicksight:ListVPCConnections": {},
 	"quicksight:RegisterCustomerManagedKey": {},
