@@ -1335,6 +1335,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"cur:PutClassicReportPreferences": {},
 	"cur:ValidateReportDestination": {},
 	"customer-verification:CreateCustomerVerificationDetails": {},
+	"customer-verification:CreateUploadUrls": {},
 	"customer-verification:GetCustomerVerificationDetails": {},
 	"customer-verification:GetCustomerVerificationEligibility": {},
 	"customer-verification:UpdateCustomerVerificationDetails": {},
