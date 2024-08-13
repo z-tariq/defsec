@@ -1815,6 +1815,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"ec2:DescribeInstances": {},
 	"ec2:DescribeInternetGateways": {},
 	"ec2:DescribeIpamByoasn": {},
+	"ec2:DescribeIpamExternalResourceVerificationTokens": {},
 	"ec2:DescribeIpamPools": {},
 	"ec2:DescribeIpamResourceDiscoveries": {},
 	"ec2:DescribeIpamResourceDiscoveryAssociations": {},
