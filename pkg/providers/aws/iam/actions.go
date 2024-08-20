@@ -134,6 +134,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"appconfig:ListDeploymentStrategies": {},
 	"appconfig:ListExtensionAssociations": {},
 	"appconfig:ListExtensions": {},
+	"appfabric:CreateAppBundle": {},
 	"appfabric:ListAppBundles": {},
 	"appflow:CreateConnectorProfile": {},
 	"appflow:CreateFlow": {},
