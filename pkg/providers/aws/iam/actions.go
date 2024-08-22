@@ -2085,7 +2085,6 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"elemental-activations:GetAssets": {},
 	"elemental-activations:GetProductAdvisories": {},
 	"elemental-activations:GetSoftwareVersions": {},
-	"elemental-activations:StartAccountRegistration": {},
 	"elemental-activations:StartFileUpload": {},
 	"elemental-appliances-software:CompleteUpload": {},
 	"elemental-appliances-software:CreateOrderV1": {},
