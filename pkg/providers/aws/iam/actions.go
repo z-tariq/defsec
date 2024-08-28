@@ -5300,6 +5300,7 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"wellarchitected:UpdateGlobalSettings": {},
 	"wellarchitected:UpdateShareInvitation": {},
 	"wickr:CreateNetwork": {},
+	"wickr:DeleteNetwork": {},
 	"wickr:ListNetworks": {},
 	"wickr:ListTagsForResource": {},
 	"wisdom:CreateAssistant": {},
