@@ -2853,8 +2853,6 @@ var allowedActionsForResourceWildcardsMap = map[string]struct{}{
 	"iotfleetwise:PutEncryptionConfiguration": {},
 	"iotfleetwise:PutLoggingOptions": {},
 	"iotfleetwise:RegisterAccount": {},
-	"iotroborunner:CreateSite": {},
-	"iotroborunner:ListSites": {},
 	"iotsitewise:CreateAssetModel": {},
 	"iotsitewise:CreateBulkImportJob": {},
 	"iotsitewise:CreateGateway": {},
